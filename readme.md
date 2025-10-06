@@ -1,0 +1,1 @@
+trtabajo para usar lo aprendido de git_hub: como crear una carpeta, crear archivos, inicializar un repositorio, crerar ramas, unificar ramas, subir el repositorio a la nube
